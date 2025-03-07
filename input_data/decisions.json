@@ -18,7 +18,7 @@
                 "ergonomics": {
                     "Probability Density Function": "beta",
                     "mean": 5,
-                    "alfa": 2,
+                    "alfa": 5,
                     "beta": 5
                 }
             },
@@ -38,7 +38,7 @@
                 "ergonomics": {
                     "Probability Density Function": "beta",
                     "mean": 5,
-                    "alfa": 2,
+                    "alfa": 5,
                     "beta": 5
                 }
             },
@@ -58,8 +58,8 @@
                 "ergonomics": {
                     "Probability Density Function": "beta",
                     "mean": 6,
-                    "alfa": 2,
-                    "beta": 5
+                    "alfa": 5,
+                    "beta": 2
                 }
             },
             {
@@ -78,8 +78,8 @@
                 "ergonomics": {
                     "Probability Density Function": "beta",
                     "mean": 7,
-                    "alfa": 2,
-                    "beta": 5
+                    "alfa": 5,
+                    "beta": 2
                 }
             },
             {
@@ -98,8 +98,8 @@
                 "ergonomics": {
                     "Probability Density Function": "beta",
                     "mean": 9,
-                    "alfa": 2,
-                    "beta": 5
+                    "alfa": 5,
+                    "beta": 2
                 }
             }
         ]
@@ -123,7 +123,7 @@
                 "ergonomics": {
                     "Probability Density Function": "normal",
                     "mean": 5,
-                    "sigma": 1
+                    "sigma": 1.5
                 }
             },
             {
@@ -142,7 +142,7 @@
                 "ergonomics": {
                     "Probability Density Function": "normal",
                     "mean": 7,
-                    "sigma": 1
+                    "sigma": 1.5
                 }
             },
             {
@@ -161,7 +161,7 @@
                 "ergonomics": {
                     "Probability Density Function": "normal",
                     "mean": 9,
-                    "sigma": 1
+                    "sigma": 1.5
                 }
             }
         ]
@@ -297,7 +297,7 @@
                 "ergonomics": {
                     "Probability Density Function": "normal",
                     "mean": 10,
-                    "sigma": 1
+                    "sigma": 1.5
                 }
             },
             {
@@ -316,7 +316,7 @@
                 "ergonomics": {
                     "Probability Density Function": "normal",
                     "mean": 4,
-                    "sigma": 1
+                    "sigma": 1.5
                 }
             },
             {
@@ -333,9 +333,7 @@
                     "beta": 2
                 },
                 "ergonomics": {
-                    "Probability Density Function": "normal",
-                    "mean": 10,
-                    "sigma": 1
+                    "Probability Density Function": "none",
                 }
             }
         ]
@@ -359,8 +357,8 @@
                 "ergonomics": {
                     "Probability Density Function": "beta",
                     "mean": 8,
-                    "alfa": 2,
-                    "beta": 5
+                    "alfa": 5,
+                    "beta": 2
                 }
             },
             {
@@ -404,7 +402,7 @@
                 "ergonomics": {
                     "Probability Density Function": "normal",
                     "mean": 4,
-                    "sigma": 1
+                    "sigma": 1.5
                 }
             },
             {
@@ -423,7 +421,7 @@
                 "ergonomics": {
                     "Probability Density Function": "normal",
                     "mean": 8,
-                    "sigma": 1
+                    "sigma": 1.5
                 }
             }
         ]
@@ -447,7 +445,7 @@
                 "ergonomics": {
                     "Probability Density Function": "normal",
                     "mean": 4,
-                    "sigma": 1
+                    "sigma": 1.5
                 }
             },
             {
@@ -466,7 +464,7 @@
                 "ergonomics": {
                     "Probability Density Function": "normal",
                     "mean": 8,
-                    "sigma": 1
+                    "sigma": 1.5
                 }
             }
         ]
