@@ -252,7 +252,7 @@
         "name": "D2| Device Mount Type",
         "enable": "True",
         "Weighting Interoperative Overhead": 1,
-        "Weighting Ergonomics": 0.4,
+        "Weighting Ergonomics": 0.3,
         "Weighting Responsiveness": 1,
         "Options": [
             {
@@ -969,7 +969,7 @@
         "name": "D9| Onboard vs Offboard Power",
         "enable": "True",
         "Weighting Interoperative Overhead": 1,
-        "Weighting Ergonomics": 0.1,
+        "Weighting Ergonomics": 0.2,
         "Weighting Responsiveness": 1,
         "Options": [
             {
